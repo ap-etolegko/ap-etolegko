@@ -22,7 +22,7 @@
 ---
 
 ### 📫 **Связь с нами:**
-- **Telegram:** [@ЭтоЛегко](https://t.me/mbaetolegko)
+- **Telegram:** https://t.me/mbaetolegko
 
 ---
 
